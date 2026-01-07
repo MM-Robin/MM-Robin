@@ -10,20 +10,20 @@
 
 ##  About Me
 
-- 🎓 Final-year student & researcher in **Computer Vision & AI**
-- 🔍 Thesis on **Real-Time Object Detection using NVIDIA Jetson**
-- 🤖 Strong interest in **Machine Learning, Data Analysis & Automation**
-- ⚙️ Hands-on with **Python, OpenCV, PyTorch, TensorFlow**
-- 🎯 Career Goal: **AI Engineer / ML Engineer / Data Scientist**
+- Final-year student & researcher in **Computer Vision & AI**
+- Thesis on **Real-Time Object Detection using NVIDIA Jetson**
+- Strong interest in **Machine Learning, Data Analysis & Automation**
+- Hands-on with **Python, OpenCV, PyTorch, TensorFlow**
+- Career Goal: **AI Engineer / ML Engineer / Data Scientist**
 
 ---
 
 ##  Current Focus
 
-- 🧠 Edge AI & real-time inference
-- ⚡ Model optimization & performance tuning
-- 📊 Data-driven problem solving
-- 🎓 Planning for a **Master’s in AI / Data Science**
+- Edge AI & real-time inference
+- Model optimization & performance tuning
+- Data-driven problem solving
+- Planning for a **Master’s in AI / Data Science**
 
 ---
 
