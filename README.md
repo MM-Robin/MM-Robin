@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Final-year student & researcher in **Computer Vision & AI**
 - 🔍 Thesis on **Real-Time Object Detection using NVIDIA Jetson**
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - 🧠 Edge AI & real-time inference
 - ⚡ Model optimization & performance tuning
@@ -27,7 +27,8 @@
 
 ---
 
-## 🌐 Socials
+##  Socials
+
 
 <p align="center">
   <a href="mailto:mainuddinrobin2019@gmail.com">
@@ -36,46 +37,51 @@
   <a href="https://www.linkedin.com/in/mainuddin-monsur-robin-981b17212/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.xing.com/profile/MainuddinMonsur_Robin/web_profiles?nwt_nav=profile_icon">
+    <img src="https://img.shields.io/badge/XING-006567?logo=xing&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming
+###  Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🤖 AI / ML
+###  AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Data
+###  Data
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Tools
+###  Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MM-Robin&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MM-Robin&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MM-Robin&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MM-Robin&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
