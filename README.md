@@ -69,14 +69,8 @@
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MM-Robin&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=MM-Robin&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MM-Robin&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MM-Robin&theme=radical"/> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&layout=compact&theme=radical"/> </p>
 
 
 ---
