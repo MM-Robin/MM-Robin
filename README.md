@@ -95,17 +95,40 @@
 
 ---
 
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MM-Robin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=MM-Robin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=MM-Robin&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random Quote"
+  />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=MM-Robin&icon=0&color=0)](https://visitcount.itsvg.in) <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> </p> "
