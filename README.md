@@ -8,7 +8,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 - B.Sc. **Information Engineering** student at **HAW Hamburg**
 - Background in **AI, Machine Learning & Data Analysis**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Cybersecurity fundamentals & risk-aware system design
 - Vulnerability analysis in embedded systems
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Technical Interests
+## Technical Interests
 
 - Artificial Intelligence & Machine Learning  
 - Embedded & Low-level Security  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -79,7 +79,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:mainuddinrobin2019@gmail.com">
@@ -94,6 +94,17 @@
 </p>
 
 ---
+
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MM-Robin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MM-Robin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MM-Robin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
