@@ -11,8 +11,7 @@
 ## About Me
 
 - B.Sc. **Information Engineering** student at **HAW Hamburg**
-- Comfortable with **technical analysis, documentation & structured thinking**
-
+  
 ---
 
 ## Tech Stack
