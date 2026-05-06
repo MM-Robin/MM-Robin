@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Cybersecurity+%26+Operational+Resilience;Embedded+Security+%26+Risk-Aware+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%7C+Machine+Learning%7C;Cybersecurity+%26;Embedded+Security+%26+Risk-Aware+Systems"/>
 </p>
 
 ---
@@ -11,31 +11,7 @@
 ## About Me
 
 - B.Sc. **Information Engineering** student at **HAW Hamburg**
-- Background in **AI, Machine Learning & Data Analysis**
-- Professional exposure to **Embedded Security & Vulnerability Analysis**
-- Growing focus on **Cybersecurity, Risk & Operational Resilience**
-- Interested in **Cybersecurity Governance, NIS2 & Business Continuity**
 - Comfortable with **technical analysis, documentation & structured thinking**
-
----
-
-## Current Focus
-
-- Cybersecurity fundamentals & risk-aware system design
-- Vulnerability analysis in embedded systems
-- Operational resilience & business continuity concepts
-- Regulatory awareness (**NIS2, ISMS basics**)
-- Applying **data-driven thinking** to security and resilience problems
-
----
-
-## Technical Interests
-
-- Artificial Intelligence & Machine Learning  
-- Embedded & Low-level Security  
-- Cybersecurity & Risk Management  
-- Operational Resilience & BCM  
-- Automation, analysis & reproducibility  
 
 ---
 
