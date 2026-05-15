@@ -19,7 +19,6 @@
   <a href="https://github.com/MM-Robin">
     <img src="https://img.shields.io/badge/GitHub-MM--Robin-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MM-Robin&style=flat-square&color=00d4ff&label=Profile+Views"/>
 </p>
 
 ---
