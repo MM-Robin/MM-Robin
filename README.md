@@ -41,11 +41,11 @@ I am particularly interested in:
 Embedded Systems        Cybersecurity              Applied AI & ML
 ─────────────────       ─────────────────────      ──────────────────────
 ARM Cortex-M / TI MSP   Risk Assessment & CVSS     Supervised & Unsupervised
-RISC-V Architecture     Firmware Security           Anomaly Detection
-FPGA / VHDL             Cryptography (RSA, AES)     Edge Inference (TFLite)
-C / Assembly / RTOS     Vulnerability Analysis      scikit-learn / PyTorch
-LTspice Circuit Sim     Network Security            NLP & LLM Integration
-Hardware Debugging      Incident Response           Data Pipelines & ETL
+RISC-V Architecture     Firmware Security          Anomaly Detection
+FPGA / VHDL             Cryptography (RSA, AES)    Edge Inference (TFLite)
+C / Assembly / RTOS     Vulnerability Analysis     scikit-learn / PyTorch
+LTspice Circuit Sim     Network Security           NLP & LLM Integration
+Hardware Debugging      Incident Response          Data Pipelines & ETL
 ```
 
 ---
