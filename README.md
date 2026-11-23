@@ -25,13 +25,7 @@
 
 ## About Me
 
-I am a **M.Sc. Information and Communication Engineering** student at **HAW Hamburg**, specializing at the intersection of **embedded systems**, **applied AI**, and **cybersecurity**. My work focuses on building intelligent, security-aware systems — from low-level firmware and hardware design to machine learning pipelines for anomaly detection and threat analysis.
-
-I am particularly interested in:
-
-- **Embedded AI** — deploying lightweight inference models on resource-constrained hardware (ARM Cortex-M, RISC-V, FPGA)
-- **Cybersecurity Engineering** — hardware security, firmware vulnerability analysis, cryptographic protocols, and risk assessment
-- **Intelligent Systems** — applying ML/AI to solve real-world problems in security monitoring, fault detection, and predictive analytics
+I am a **M.Sc. Information and Communication Engineering** student at **HAW Hamburg**, specializing at the intersection of **embedded systems**, **applied AI** and **cybersecurity**. My work focuses on building intelligent, security-aware systems from low-level firmware and hardware design to machine learning pipelines for anomaly detection and threat analysis.
 
 ---
 
